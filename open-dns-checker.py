@@ -3,7 +3,6 @@
 Identify open DNS resolver from the list of candidates.
 Digs are sent to the individual addresses asking for NX domain of the domain under my control.
 Run script multiple times to avoid lost packets (e.g. anti-DoS solutions).
-Script can be used for testing RRL (Response Rate Limiting)
 '''
 
 import subprocess
